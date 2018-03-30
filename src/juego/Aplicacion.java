@@ -12,15 +12,9 @@ import javafx.scene.text.Font;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-/**
- * Aplicación del juego Cuatro en Lí­nea.
- * 
- * Punto de entrada del programa.
- * 
- */
 public class Aplicacion extends Application {
 
-	public static final String TITULO = "Cuatro en Lí­nea";
+	public static final String TITULO = "Cuatro en Lï¿½nea";
 	
 	private GridPane grilla;
 	
@@ -84,7 +78,7 @@ public class Aplicacion extends Application {
 	
 	/**
 	 * post: crea un juego CuatroEnLinea, lo asocia a una Tablero 
-	 * 		 y comienza su ejecución.
+	 * 		 y comienza su ejecuciï¿½n.
 	 * 
 	 */
 	public void iniciar() {

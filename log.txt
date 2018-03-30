@@ -1,0 +1,27 @@
+079586a Update README.md
+8127681 JavaFX Application configurada.
+3d4c871 Acento cambiado a ISO-latin1
+69c7b2c Encoding cambiado a ISO-latin1
+dfa0306 Número de columna corregida al soltar ficha.
+f6390a1 Enunciado corregido
+d364ba7 Fecha de entrega corregida
+a1ce08c Documentación de las clases.
+491c0da El Spinner está solo disponible en una versión nueva de javaFX
+1b3f8c3 Implementación por default y documentación agregada
+000bbe1 Enunciado agregado
+5186888 Cambio al paquete juego.
+d65971f IniciarJuego en lugar de Iniciar
+870506f Titulo del tablero
+c55941e Modularización.
+a564033 Nombres de los jugadores en la interfaz
+cfea10a Tablero separado de la aplicación.
+de792a3 Reordenamiento de los métodos del modelo
+7fd3a09 Posición renombrado a Casillero
+38d71a3 Salida por consola removida
+f004690 Borde de los casilleros
+281225d Separación de filas y columnas en la grilla
+5ef4147 Hoja de estilos removida
+0d264b5 Nombre de los jugadores en el juego
+be789d9 El Juego expone operaciones consultar cada posición.
+b65dbbd Producto mínimo viable.
+021059f Initial commit
